@@ -20,7 +20,7 @@ goods_count = first_count + second_count
 goods_cost = first_cost + second_cost
 coupon_cost = goods_cost * coupon / 100
 total_cost = goods_cost - coupon_cost + delivery_cost
-amount_deposited = float(input("внесённая сумма ₽: "))
+amount_deposited = float(input("Внесённая сумма ₽: "))
 remainder = amount_deposited - total_cost
 
 print(f"\n---------- {order_name} ({order_author}) ----------\n")
