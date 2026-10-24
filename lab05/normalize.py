@@ -1,0 +1,11 @@
+s = input("Введите текст: ")
+old_len = len(s)
+splitted = s.split()
+normalized = " ".join(splitted)
+word_count = len(splitted)
+new_len = len(normalized)
+
+print(f"Нормализованный текст: {normalized}")
+print(f"Количество слов: {word_count}")
+print(f"Исходная длина: {old_len}")
+print(f"Новая длина: {new_len}")
