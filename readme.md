@@ -47,8 +47,34 @@
 [Циклы](lab04/readme.md)
 </td>
 </tr>
-</table>
+<tr>
+<td>
+5
+</td>
+<td>
 
+[Строки](lab05/readme.md)
+</td>
+</tr>
+<tr>
+<td>
+6
+</td>
+<td>
+
+[Списки](lab06/readme.md)
+</td>
+</tr>
+<tr>
+<td>
+7
+</td>
+<td>
+
+[Функции и проверки](lab07/readme.md)
+</td>
+</tr>
+</table>
 </div>
 
 ## Требования
